@@ -5,6 +5,8 @@ LEGO-WORLD
 
 List of files in this directory:
 
-Lego-World/Lego-World/Lego Project.ipynb           Python script used for analyzing Lego dataset 
-Lego-World/Lego-World/datasets/colors.csv          Data Files 
++ Lego-World/Lego-World/Lego Project.ipynb :  
+    Python script used for analyzing Lego dataset 
++ Lego-World/Lego-World/datasets/colors.csv        
+    Data Files 
 
